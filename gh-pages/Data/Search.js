@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/CDL/CDL_Semantics_Covers.htm'],s:['$300','positionnam'],p:[['$300',22],['cedant',22],['from',0],['on',0],['standard',10]]});
